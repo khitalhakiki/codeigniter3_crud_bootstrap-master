@@ -3,7 +3,7 @@
 
 <p align="center">
 <!--   <img src="https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/blob/master/screenshots/ScreenshotCI.PNG" width="50%" /> -->
- <img src ="https://github.com/khitalhakiki/codeigniter3_crud_bootstrap-master/tree/main/screenshots/ScreenshotCI.png" width = "50%" />
+ <img src ="https://github.com/khitalhakiki/codeigniter3_crud_bootstrap-master/blob/main/screenshots/ScreenshotCI.PNG" width = "50%" />
 </p>
 
 ### What is CodeIgniter? [Click Here](https://www.codeigniter.com/). 
