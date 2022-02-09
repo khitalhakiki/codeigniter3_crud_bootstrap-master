@@ -48,7 +48,7 @@
     $config['encryption_key'] = 'bkavahsalhciyGT67ats78rfcD^ASo'; //Change encryption_key with whatever you want
     ```
         
-  * You can download database from [here] (https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/tree/master/database) and change code  
+  * You can download database from [here] (https://github.com/khitalhakiki/codeigniter3_crud_bootstrap-master/tree/main/database) and change code  
   * Open **application/config/database.php** and change this with yours
   
     ```
@@ -57,7 +57,7 @@
     'password' => '',
     'database' => 'tem_all',
     ```
-  * Set template, download [here] (https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/blob/master/application/libraries/Template.php) and save it to   **/application/libraries/Template.php**
+  * Set template, download [here] (https://github.com/khitalhakiki/codeigniter3_crud_bootstrap-master/blob/main/application/libraries/Template.php) and save it to   **/application/libraries/Template.php**
 
 
 2. Part-2
@@ -83,12 +83,16 @@
   * Rename *welcome_message.php* in **application/views/welcome_message.php** to *page_home.php*
   
 3. Part-3
-  * Copy and Paste folder assets [(download here)](https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/tree/master/assets) to your project. This a way to set the bootraps CSS in this project.
+  * Copy and Paste folder assets [(download here)](https://github.com/khitalhakiki/codeigniter3_crud_bootstrap-master/tree/main/assets) to your project. This a way to set the bootraps CSS in this project.
   * Remember! the different from site_url (return last file name) and base_url (only return folder path), so to link the bootstrap CSS from folder assets just use base_url();
-  * Copy and Paste *pagination.php* into **application/config/pagination.php** [Here the source code](https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/blob/master/application/config/pagination.php)
-  *	Create a new model file example with name *Model_home.php* into **application/models** [Source Code](https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/blob/master/application/models/Model_home.php)  
-  *	Copy and Paste folder *fpdf181* into **application/fpdf181** [Download Here](https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/tree/master/application/fpdf181)
-  * Create a new file with name *Fpdf_gen.php* in **application/library** [Source Code](https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/tree/master/application/fpdf181)
+  * Copy and Paste *pagination.php* into **application/config/pagination.php** [Here the source code]
+(https://github.com/khitalhakiki/codeigniter3_crud_bootstrap-master/blob/main/application/config/pagination.php)
+  *	Create a new model file example with name *Model_home.php* into **application/models** [Source Code]
+(https://github.com/khitalhakiki/codeigniter3_crud_bootstrap-master/blob/main/application/models/Model_home.php)  
+  *	Copy and Paste folder *fpdf181* into **application/fpdf181** [Download Here]
+(https://github.com/khitalhakiki/codeigniter3_crud_bootstrap-master/tree/main/application/fpdf181)
+  * Create a new file with name *Fpdf_gen.php* in **application/library** [Source Code]
+(https://github.com/khitalhakiki/codeigniter3_crud_bootstrap-master/tree/main/application/fpdf181)
   * Finally the complate Page view and controller:
     - [Controller Home.php](https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/blob/master/application/controllers/Home.php)
     - [Page view page_home.php](https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/blob/master/application/views/page_home.php)
