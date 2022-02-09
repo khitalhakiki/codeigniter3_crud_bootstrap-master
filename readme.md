@@ -12,7 +12,8 @@
   * Download CodeIgniter V.3 [Click Here](https://www.codeigniter.com/).
   * Create a file *.htaccess* in your project folder **CI/YourProject**. [Source Code .htaccess]
 (https://github.com/khitalhakiki/codeigniter3_crud_bootstrap-master/blob/main/.htaccess)
-  * Create a file *Template.php* in **application/libraries**. [Source Code Template.php](https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/blob/master/application/libraries/Template.php). 
+  * Create a file *Template.php* in **application/libraries**. [Source Code Template.php]
+ (https://github.com/khitalhakiki/codeigniter3_crud_bootstrap-master/blob/main/application/libraries/Template.php). 
   * Open **application/config/autoload.php** and Change autoload like this:
     ```
     $autoload['libraries'] = array('session','database','Template','form_validation','encrypt');
@@ -92,5 +93,5 @@
     - [Controller Home.php](https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/blob/master/application/controllers/Home.php)
     - [Page view page_home.php](https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/blob/master/application/views/page_home.php)
     - [Page view page_excel.php](https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/blob/master/application/views/page_excel.php)
-  *Powered By MuhFirmanAkbar -200x
+ * Powered By MuhFirmanAkbar -200x
 
