@@ -94,8 +94,8 @@
   * Create a new file with name *Fpdf_gen.php* in **application/library** [Source Code]
 (https://github.com/khitalhakiki/codeigniter3_crud_bootstrap-master/tree/main/application/fpdf181)
   * Finally the complate Page view and controller:
-    - [Controller Home.php](https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/blob/master/application/controllers/Home.php)
-    - [Page view page_home.php](https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/blob/master/application/views/page_home.php)
-    - [Page view page_excel.php](https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/blob/master/application/views/page_excel.php)
- * Powered By MuhFirmanAkbar -200x
+    - [Controller Home.php](https://github.com/khitalhakiki/codeigniter3_crud_bootstrap-master/blob/main/application/controllers/Home.php)
+    - [Page view page_home.php](https://github.com/khitalhakiki/codeigniter3_crud_bootstrap-master/blob/main/application/controllers/Home.php)
+    - [Page view page_excel.php](https://github.com/khitalhakiki/codeigniter3_crud_bootstrap-master/blob/main/application/views/page_excel.php)
+ * M
 
