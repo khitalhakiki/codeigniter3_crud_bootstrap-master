@@ -10,7 +10,8 @@
 ### Tutorial 
 1. Install & Config Part-1
   * Download CodeIgniter V.3 [Click Here](https://www.codeigniter.com/).
-  * Create a file *.htaccess* in your project folder **CI/YourProject**. [Source Code .htaccess](https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/blob/master/.htaccess)
+  * Create a file *.htaccess* in your project folder **CI/YourProject**. [Source Code .htaccess]
+(https://github.com/khitalhakiki/codeigniter3_crud_bootstrap-master/blob/main/.htaccess)
   * Create a file *Template.php* in **application/libraries**. [Source Code Template.php](https://github.com/firmanprogrammer/codeigniter3_crud_bootstrap/blob/master/application/libraries/Template.php). 
   * Open **application/config/autoload.php** and Change autoload like this:
     ```
